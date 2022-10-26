@@ -8,7 +8,7 @@ My name is João Gabriel, I'm 26 years old and I work as a Software Developer at
 
 👨‍🎓 Bachelor degree in Computer Science
 
-📕 Currently learning Node.js
+📕 Currently learning Node.js and Flutter.
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
