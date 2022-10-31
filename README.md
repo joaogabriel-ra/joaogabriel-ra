@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jg.assuncao@gmail.com)](mailto:jg.assuncao@gmail.com)
 
 ## Hello! 👋
-My name is João Gabriel, I'm 26 years old and I work as a Software Developer at Meta.
+I'm João Gabriel, I work as a Software Developer at Meta in Brazil.
 
 👨‍🎓 Bachelor degree in Computer Science
 
