@@ -8,7 +8,7 @@ I'm João Gabriel, I work as a Software Developer at Meta in Brazil.
 
 👨‍🎓 Bachelor degree in Computer Science
 
-📕 Currently React Native.
+📕 Currently learning React Native.
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
